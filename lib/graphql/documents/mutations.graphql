@@ -1,0 +1,33 @@
+mutation CreateMenuItem($name: String!, $category: String!, $description: String!, $price: Float!, $special: Boolean, $hot: Boolean) {
+  createItem (name: $name, category: $category,  description: $description, price: $price, special: $special, hot: $hot) {
+      id
+      name
+      category
+      price
+      description
+      hot
+      special
+  }
+}
+mutation UpdateMenuItem($id: ID!, $name: String, $category: String, $description: String, $price: Float!, $special: Boolean, $hot: Boolean) {
+  updateItem (id: $id, name: $name, category: $category,  description: $description, price: $price, special: $special, hot: $hot) {
+      id
+      name
+      category
+      price
+      description
+      hot
+      special
+  }
+}
+mutation DeleteMenuItem($id: ID!) {
+  deleteItem (id: $id) {
+      id
+      name
+      category
+      price
+      description
+      hot
+      special
+  }
+}

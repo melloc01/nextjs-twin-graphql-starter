@@ -1,0 +1,12 @@
+schema: './lib/graphql/*.graphql'
+documents: ./lib/graphql/documents/*.graphql
+generates:
+  ./lib/graphql-generated.ts:
+    plugins:
+      - typescript
+      - typescript-operations
+      - typescript-graphql-request
+      - typescript-resolvers
+      - named-operations-object
+    config:
+      rawRequest: true

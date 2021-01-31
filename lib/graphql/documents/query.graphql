@@ -1,0 +1,11 @@
+query menu {
+    menu {
+        id
+        name
+        category
+        price
+        description
+        hot
+        special
+    }
+}
