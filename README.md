@@ -3,11 +3,11 @@ This is a starter for new [Next.js](https://nextjs.org/) projects, easily deploy
 Note that besides Next.js and twin.macro, all other libraries are easily replaced or taken off.
 
 # What is included
-- ### [Next.js@^10](https://nextjs.org/)
-- ### [twin.macro](https://github.com/ben-rogerson/twin.macro/)
-- ### [GraphQL (Apollo server)](https://www.apollographql.com/docs/apollo-server/v1/servers/micro/)
-- ### [react-query](https://react-query.tanstack.com/)
-- ### [react-hook-form](https://react-hook-form.com/)
+- [Next.js@^10](https://nextjs.org/)
+- [twin.macro](https://github.com/ben-rogerson/twin.macro/)
+- [GraphQL (Apollo server)](https://www.apollographql.com/docs/apollo-server/v1/servers/micro/)
+- [react-query](https://react-query.tanstack.com/)
+- [react-hook-form](https://react-hook-form.com/)
 
 - ### [antd](https://ant.design/)
 
