@@ -8,10 +8,8 @@ Note that besides Next.js and twin.macro, all other libraries are easily replace
 - [GraphQL (Apollo server)](https://www.apollographql.com/docs/apollo-server/v1/servers/micro/)
 - [react-query](https://react-query.tanstack.com/)
 - [react-hook-form](https://react-hook-form.com/)
-
-- ### [antd](https://ant.design/)
-
-- ### [Cloud MongoDB integration](https://cloud.mongodb.com)
+- [antd](https://ant.design/)
+- [Cloud MongoDB integration](https://cloud.mongodb.com)
 
 # VS Code integration
 It is important to have some extensions so your intellisense works properly. There are configuration files on the project that makes them work properly.
