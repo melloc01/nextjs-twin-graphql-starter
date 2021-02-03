@@ -1,6 +1,6 @@
-# This is a starter for new [Next.js](nextjs.org/) projects, easily deployable to [vercel](vercel.com/), with GraphQL (with codegen!!) and tailwind (twin.macro) and friends working out of the box.
+This is a starter for new [Next.js](nextjs.org/) projects, easily deployable to [vercel](vercel.com/), with GraphQL (with codegen!!) and tailwind (twin.macro) and friends working out of the box.
 
-### Note that besides Next.js and twin.macro, all other libraries are easily replaced or taken off.
+Note that besides Next.js and twin.macro, all other libraries are easily replaced or taken off.
 
 # What is included
 - ### [Next.js@^10](nextjs.org/)
