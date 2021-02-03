@@ -1,15 +1,15 @@
-This is a starter for new [Next.js](nextjs.org/) projects, easily deployable to [vercel](vercel.com/), with GraphQL (with codegen!!) and tailwind (twin.macro) and friends working out of the box.
+This is a starter for new [Next.js](https://nextjs.org/) projects, easily deployable to [vercel](vercel.com/), with GraphQL (with codegen!!) and tailwind (twin.macro) and friends working out of the box.
 
 Note that besides Next.js and twin.macro, all other libraries are easily replaced or taken off.
 
 # What is included
-- ### [Next.js@^10](nextjs.org/)
+- ### [Next.js@^10](https://nextjs.org/)
 - ### [twin.macro](https://github.com/ben-rogerson/twin.macro/)
 - ### [GraphQL (Apollo server)](https://www.apollographql.com/docs/apollo-server/v1/servers/micro/)
-- ### [react-query](react-query.tanstack.com/)
+- ### [react-query](https://react-query.tanstack.com/)
 - ### [react-hook-form](https://react-hook-form.com/)
 
-- ### [antd](ant.design/)
+- ### [antd](https://ant.design/)
 
 - ### [Cloud MongoDB integration](https://cloud.mongodb.com)
 
